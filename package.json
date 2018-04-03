@@ -17,7 +17,6 @@
     "flow": "flow check",
     "lint": "eslint packages/**; exit 0",
     "lint:watch": "esw -w packages/**",
-    "prepare": "npm run build",
     "storybook": "yarn && start-storybook -p 6006 -s ./assets",
     "build-storybook": "build-storybook",
     "prepublish": "yarn run build",

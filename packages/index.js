@@ -28,6 +28,7 @@ import Tooltip from './Tooltip/';
 import ProgressBar from './ProgressBar/';
 import { Table, TableCaption, TableColumn, TableHeader } from './Table';
 import Pagination from './Pagination/';
+import Modal from './Modal/';
 
 export {
   Avatar,
@@ -62,5 +63,6 @@ export {
   TableCaption,
   TableColumn,
   TableHeader,
-  Pagination
+  Pagination,
+  Modal,
 };

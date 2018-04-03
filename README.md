@@ -3,8 +3,7 @@
 ## Demo
 [Storybook Demo](http://react.vitaluikit.com/) 👯
 
- [BitSrc](https://bitsrc.io/gssfed/vital-ui-kit-react)
-  💃
+ [BitSrc](https://bitsrc.io/gssfed/vital-ui-kit-react) 💃
 
 ## Usage
 
@@ -32,20 +31,11 @@ render() {
 ````
 
 
+## Contributing
 
-## Development
+Make sure read our [contributing guide](CONTRIBUTING.md) to learn about our development process.
 
-`yarn install`
-
-then run storybook
-
-`yarn run storybook`
-
-## Build
-
-`yarn run build-storybook`
-
-## Roadmap
+## Road Map
 
 - docs
 - Table(page, checkbox, input, header)
