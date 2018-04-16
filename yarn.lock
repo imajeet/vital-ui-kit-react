@@ -10588,7 +10588,7 @@ ripemd160@^2.0.0, ripemd160@^2.0.1:
     hash-base "^2.0.0"
     inherits "^2.0.1"
 
-rollup-plugin-auto-external@^1.2.0:
+rollup-plugin-auto-external@1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/rollup-plugin-auto-external/-/rollup-plugin-auto-external-1.2.0.tgz#42a99517f969485a1b15b30c403e1a7d2e2e14c3"
   dependencies:
